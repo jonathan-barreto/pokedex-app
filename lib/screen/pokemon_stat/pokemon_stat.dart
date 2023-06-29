@@ -1,8 +1,8 @@
 import 'package:dex_app/controller/card_controller.dart';
 import 'package:dex_app/screen/pokemon_stat/app_bar.dart';
 import 'package:dex_app/widgets/container_pokemon.dart';
-import 'package:dex_app/widgets/expanded.data.dart';
-import 'package:dex_app/widgets/expanded.list.dart';
+import 'package:dex_app/widgets/expanded_data.dart';
+import 'package:dex_app/widgets/expanded_list.dart';
 import 'package:flutter/material.dart';
 
 class PokemonStat extends StatelessWidget {

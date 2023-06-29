@@ -1,5 +1,5 @@
 import 'package:dex_app/controller/card_controller.dart';
-import 'package:dex_app/widgets/linear.widgets.dart';
+import 'package:dex_app/widgets/linear_widgets.dart';
 import 'package:flutter/material.dart';
 
 class ExpandedList extends StatelessWidget {

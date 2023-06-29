@@ -1,5 +1,5 @@
 import 'package:dex_app/controller/card_controller.dart';
-import 'package:dex_app/widgets/pokemon.image.dart';
+import 'package:dex_app/widgets/pokemon_image.dart';
 import 'package:flutter/material.dart';
 
 class ContainerPokemon extends StatelessWidget {
