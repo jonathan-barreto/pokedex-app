@@ -2,7 +2,7 @@ import 'dart:convert';
 
 
 import 'package:dex_app/model/color_model.dart';
-import 'package:dex_app/model/name.model.dart';
+import 'package:dex_app/model/name_model.dart';
 import 'package:dex_app/screen/pokedex/pokemon_model.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
